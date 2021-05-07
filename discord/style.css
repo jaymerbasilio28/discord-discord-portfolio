@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(216, 216, 216);
+}
+.container{
+    margin:10%;
+    border: solid black 2px;
+}
+.image{
+    text-align: center;
+}
+.image img{
+    height: 150px;
+    width: 200px;
+    border-radius: 60px;
+    padding-top:10px;
+}
+.headerContainer .name-container{
+    text-align: center;
+}
+.content-container{
+    display: flex;
+}
+.aboutme{
+    padding: 20px;
+}
+.carrer-container section{
+    padding: 40px;
+}
+.about-me-container{
+    width: 60%;
+}
+.contact{
+    padding: 20px;
+}
+.skills{
+    padding: 20px;
+}
+.expertise{
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+}
+ul li{
+    padding-left: 20px;
+}
+.academic-border{
+    display: flex;
+    width: 60%;
+    margin: auto;
+}
+.gradeschool-container{
+    margin: 0px 10px 0px 10px;
+    padding-right: 10px;
+}
+p{
+    font-size: 1.1em;
+}
+.highschool-container{
+    margin: 0px 10px 0px 10px;
+    padding-right: 20px;
+}
+.college-container{
+}
+footer{
+    padding: 80px;
+    background-color: grey;
+}
+#qwe{
+    padding: 63px;
+}
+.carrer-container{
+    background-color: whitesmoke;
+}
+.about-me-container {
+    background-color: rgb(90, 136, 115);
+    border-top: solid rgb(48, 46, 46)
+}
+header{
+    background-color:rgb(90, 136, 115) ;
+}
+ul li{
+    list-style-type: none;  
+}
+.contact ul li{
+    margin-bottom: 5px;
+}
